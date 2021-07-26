@@ -13,6 +13,6 @@ Fatures
 Instalation:
 
 - copy scripts and zabbix_agentd.conf.d in to zabbix agent install folder.
-- first inmport template "APP Discovery DHCP scopes.xml"
+- first import template "APP Discovery DHCP scopes.xml"
 - second import template "Microsoft_DHCP.xml"
 - in zabbix_agentd.conf chnage parameter Timeout=30
